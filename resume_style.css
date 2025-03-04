@@ -1,0 +1,43 @@
+body{
+    margin: 80px;
+    background-color: bisque;
+  }
+  
+  p{
+    font-family: DM Sans;
+  }
+  ul.a{
+    font-family: DM Sans;
+  }
+  
+  ul.b{
+    font-family: DM Sans;
+  }
+  
+  ul.c{
+    font-family: DM Sans;
+  }
+  
+  ul.d{
+    font-family: DM Sans;
+  }
+  
+  
+  header{
+    font-size: 40px;
+    font-family: DM Sans;
+    margin: 50px;
+    height: 70px;
+    color: #FFF9EB;
+    text-align: center;
+    background-color:  #6C4E31;
+  }
+  
+  .paragraph{
+    font-family: DM Sans;
+  }
+  
+  h1, h3{
+    font-family: EB Garamond;
+    font-size: 26px
+  }
