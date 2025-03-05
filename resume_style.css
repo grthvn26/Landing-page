@@ -1,9 +1,12 @@
 body{
-    margin: 80px;
+    margin: 0px;
+    padding: 0px;
     background-color: bisque;
   }
   
   p{
+    font-family: DM Sans;
+    margin: 20px;
     font-family: DM Sans;
   }
   ul.a{
@@ -24,10 +27,11 @@ body{
   
   
   header{
+    background-color:  #6C4E31;
+    color: white;
+    padding: 1em 0;
     font-size: 40px;
     font-family: DM Sans;
-    margin: 50px;
-    height: 70px;
     color: #FFF9EB;
     text-align: center;
     background-color:  #6C4E31;
